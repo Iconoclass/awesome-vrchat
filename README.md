@@ -66,31 +66,19 @@ Dated
 
 ### Avatars
 
-**Official**
+**Official tutorials**
 - [Creating Your First Avatar](https://docs.vrchat.com/docs/creating-your-first-avatar) - **Official** documentation and best quick start guide
 - [Whitelisted Avatar Components](https://creators.vrchat.com/avatars/whitelisted-avatar-components/whitelisted-avatar-components) - **Official** documentation for components you can use with avatars
 - [Avatar Optimizing Tips](https://docs.vrchat.com/docs/avatar-optimizing-tips) - **Official** documentation on optimization
 
-- [Beginner guide to Avatars](https://github.com/madjin/awesome-vrchat/blob/master/guides/avatars/intro-avatars.md) - Intro to Unity and uploading your first avatar
-- [Silent's free avatar model guide](https://gitlab.com/s-ilent/SCSS/-/wikis/Other/Avatar-Models) - covers the best freely available, properly licensed avatars + licenses Silent found
-- [Sprite/Pixel Avatars without Blender](https://youtu.be/IsYfTway-Y4) - Learn to make Doom sprite avatars
-- [Blender to Unity avatars](https://docs.google.com/document/d/1W5KFa_aszCMrJaFD8mb9a-GHYO4X4S9M63GjM4UwuEw/pub) - Tutorial by Mechlai on importing avatars from Blender
-- [Cat's Blender Plugin Overview](https://www.youtube.com/watch?v=0gu0kEj2xwA) - Youtube video showing Blender plugin to save time making avatars
-- [Maya to Unity avatars](https://docs.google.com/document/d/1LdxE2Ke9svZqPnlwTYwturwd0Fb7j00_YiO0dX49x2E/pub) - Tutorial by Mechlai on importing avatars from Maya
-- [VRC Avatar Tutorial (Japanese)](https://github.com/tuki9ko/vrc_avater_tutorial) - Japanese guide on making and uploading your own avatar
+**Unofficial Tutorials**
 - [VRC Avatar Tutorials (English)](https://vrcmods.com/tutorials) - Simple to follow video guides and short tutorials from vrcmods
-- [VRC Avatar Development](https://pastebin.com/RVFPhim0) - List of resources for MMD models and guides for making avatars
-- [Quick Start Mixamo Guide](https://vrchat.fandom.com/wiki/Quick_Start_-_Mixamo_Avatar_Creation) - Slightly old article on making avatars with Mixamo
-- [Avatar Creation Tips](https://vrchat.fandom.com/wiki/Avatar_Creation) - Various tips and guides for customized avatars from a fan wiki
-- [Configure Dynamic Bones](https://youtu.be/oO_SQsjPT5A) - Easily configure Dynamic Bones in Unity
-- [Weight Paint in 5 Mins](https://www.youtube.com/watch?v=rG82fogtuCg) - Tutorial for Blender 2.8 on weight painting
-- [VRChat FBT Fixes](https://www.youtube.com/watch?v=2sfTEBAl8sA&feature=youtu.be) - Fullbody Avatar Mega-Tutorial
-- [Convert Unity avatar to VRM](https://www.youtube.com/watch?v=gUzozuTABmY) - How to convert Unity Avatar to VRM - VRChat
+
+**Tools**
 - [Combo  Gesture Expressions](https://github.com/hai-vr/combo-gesture-expressions-av3) - Easily generate Avatars 3.0 animator layers for hand gestures to control face expressions
 - [Pumkin's Avatar Tools](https://github.com/rurre/PumkinsAvatarTools) - A toolbox for easily setting up VRChat avatars in Unity
 - [d4rkAvatarOptimizer](https://github.com/d4rkc0d3r/d4rkAvatarOptimizer) - aims to reduce skinned mesh & material count for VRC avatars 3.0
 - [VRC Inventory Inventor](https://github.com/Joshuarox100/VRC-Inventory-Inventor) - Make inventories fast with Inventory Inventor
-- [How to take your avatar with you](https://drive.google.com/file/d/1hebv8-7xTVc0ninj6IsBc9ZQ1MPBpWqv/view) - VRChat to VRM guide using UniVRM
 - [VRM converter](https://github.com/esperecyan/VRMConverterForVRChat) - VRM converter for VRChat
 - [Avatar Image Reader](https://github.com/Miner28/AvatarImageReader/) - Encode chars from Internet as images for VRChat Udon avatars
 - [AvatarModifyTools](https://github.com/HhotateA/AvatarModifyTools) - Tools to help you modify your VRChat avatar in Unity
@@ -107,10 +95,12 @@ Dated
 - [ComboGestureExpressions](https://hai-vr.github.io/combo-gesture-expressions-av3/) - Unity Editor tool that lets you attach face expressions to hand gestures
 - [Inventory Inventor](https://github.com/Joshuarox100/VRC-Inventory-Inventor) - Make inventories fast with Inventory Inventor!
 
+**Assets**
+- [Silent's free avatar model guide](https://gitlab.com/s-ilent/SCSS/-/wikis/Other/Avatar-Models) - Covers the best freely available, properly licensed avatars + licenses Silent found
+- [Boothplorer](https://boothplorer.com/) - Easiest way to browse booth.pm for VRC avatars
+
 **Quest**
-
 - [Porting PC avatars to Quest](https://www.youtube.com/watch?v=qVHYs3CsiyU) - 	VRChat tutorial by Rantis on making Quest avatars
-
 - [Quest avatar optimization for MMDs](https://www.youtube.com/watch?v=vK5gVkRXU1I) - How to port your MMD avatars over
 - [How (Not) to make your avatar Quest compatible](https://www.youtube.com/watch?v=NBysgz_ob9I) - An alternative guide for achieving Quest compatibility
 - [Optimize World](https://www.reddit.com/r/VRchat/comments/e3owxo/tutorial_how_to_shrink_a_maps_file_size_from/) - Tutorial for shrinking file size down for large maps
@@ -118,6 +108,26 @@ Dated
 - [Make Your Game Run on Quest (GDC)](https://youtu.be/3T--5SdLdjE) - Tips on getting the most out of the Quest hardware
 - [VRCQuestTools](https://github.com/kurotu/VRCQuestTools) - Convert Avatar for Quest
 - [Polytool for Unity](https://markcreator.gumroad.com/l/Polytool) - Helps with optimizing avatars within Unity
+
+**Blender**
+- [Weight Paint in 5 Mins](https://www.youtube.com/watch?v=rG82fogtuCg) - Tutorial for Blender 2.8 on weight painting
+- [VRChat FBT Fixes](https://www.youtube.com/watch?v=2sfTEBAl8sA&feature=youtu.be) - Fullbody Avatar Mega-Tutorial
+
+**Non-VRC Models to VRC**
+- [Quick Start Mixamo Guide](https://vrchat.fandom.com/wiki/Quick_Start_-_Mixamo_Avatar_Creation) - Slightly old article on making avatars with Mixamo
+- [Blender to Unity avatars](https://docs.google.com/document/d/1W5KFa_aszCMrJaFD8mb9a-GHYO4X4S9M63GjM4UwuEw/pub) - Tutorial by Mechlai on importing avatars from Blender (somewhat dated)
+- [Cat's Blender Plugin Overview](https://www.youtube.com/watch?v=0gu0kEj2xwA) - Youtube video showing Blender plugin to save time making avatars (pretty dated)
+
+**Niche**
+- [VRC Avatar Development](https://pastebin.com/RVFPhim0) - List of resources for MMD models and guides for making avatars
+- [Maya to Unity avatars](https://docs.google.com/document/d/1LdxE2Ke9svZqPnlwTYwturwd0Fb7j00_YiO0dX49x2E/pub) - Tutorial by Mechlai on importing avatars from Maya
+- [Convert Unity avatar to VRM](https://www.youtube.com/watch?v=gUzozuTABmY) - How to convert Unity Avatar to VRM - VRChat
+- [How to take your avatar with you](https://drive.google.com/file/d/1hebv8-7xTVc0ninj6IsBc9ZQ1MPBpWqv/view) - VRChat to VRM guide using UniVRM
+
+**Dated**
+- [Beginner guide to Avatars](https://github.com/madjin/awesome-vrchat/blob/master/guides/avatars/intro-avatars.md) - Intro to Unity and uploading your first avatar
+- [Avatar Creation Tips](https://vrchat.fandom.com/wiki/Avatar_Creation) - Various tips and guides for customized avatars from a fan wiki
+- [Configure Dynamic Bones](https://youtu.be/oO_SQsjPT5A) - Easily configure Dynamic Bones in Unity
 
 ---
 
@@ -134,6 +144,9 @@ Dated
 - [C4Dcenter](https://c4dcenter.com/material-library/) - Free 4K resolution PBR materials
 - [Free sound effects](https://99sounds.org/free-sound-effects/) - Collection of free sound effects for use in trailers and game dev
 - [Zulubo Sounds](https://github.com/zulubo/Zulubo-Sounds) - Free MIT License sound effects
+
+**Niche**
+
 
 **Dated**
 - [VRChat World Trigger Tutorials](https://www.youtube.com/playlist?list=PLIoLQ-8wanr9jQWDUIs_2zshaDD_Lg-9R) - Youtube video tutorials made by CyanLaser
