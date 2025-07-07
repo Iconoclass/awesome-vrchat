@@ -5,10 +5,21 @@ One-stop shop for people interested in developing content for VRChat.
 
 ## General
 
+- [The VRChat Creation Compendium](https://vrclibrary.com/wiki/books/the-vrchat-creation-compendium) - A Cohesive Resource
+
+## Starting Avatars
+
+[![video preview](https://i.ytimg.com/vi/bSwMz4WcajQ/mqdefault.jpg)](https://www.youtube.com/watch?v=bSwMz4WcajQ)
+
+## Starting Worlds
+
+[![video preview](https://i.ytimg.com/vi/0u1g0TYoJsU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnkZEmNorj2vHxk4i7FjAQRizLwg)](https://www.youtube.com/playlist?list=PLPdWkxUSZ65Fp6ICrU7mIq1znAfPwMhNZ)
+
+
 ### Official
 
 - [Official VRChat documentation](https://docs.vrchat.com) - **Official** VRChat documentation!
-- [Frequently Asked Questions](https://docs.vrchat.com/docs/frequently-asked-questions) - **Official** VRChat website FAQ, start here!
+- [Frequently Asked Questions](https://docs.vrchat.com/docs/frequently-asked-questions) - **Official** VRChat website FAQ!
 - [VRChat Creator Companion Documentation](https://vcc.docs.vrchat.com/) - **Official** documentation for the VRChat Creator Companion.
 - [VRChat Ask Forums](https://ask.vrchat.com) - **Official** VRChat forum
 
