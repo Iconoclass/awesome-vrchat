@@ -5,7 +5,7 @@ One-stop shop for people interested in developing content for VRChat.
 
 ## General
 
-- [The VRChat Creation Compendium](https://vrclibrary.com/wiki/books/the-vrchat-creation-compendium) - A Cohesive Resource
+- [The VRChat Creation Compendium](https://vrclibrary.com/wiki/books/the-vrchat-creation-compendium) - A Cohesive Resource (mostly up-to-date as of 2025)
 
 ## Starting Avatars
 
@@ -26,39 +26,51 @@ One-stop shop for people interested in developing content for VRChat.
 ### Community
 
 - [VRC Prefabs database](https://tinyurl.com/vrcprefabs) - Collection of prefabs, shaders, and tutorials
-- [VRC Unofficial Wiki](http://vrchat.wikidot.com/) - Unofficial wiki maintained by english speaking VRchat community
-- [Japanese VRchat Wiki](https://web.archive.org/web/20230930203651/https://vrcworld.wiki.fc2.com/) - Unofficial wiki maintained by Japanese VRChat community (Internet archive since regular link is dead)
 - [VRCLibrary](https://vrclibrary.com/wiki/) - A wiki for VRChat creators to learn, share and collaborate. Anyone can contribute!
 - [VRChat Creator Companion](https://vcc.docs.vrchat.com/) - New official entry point for creating things for VRChat
+
+Dated
+- [VRC Unofficial Wiki](http://vrchat.wikidot.com/) - Unofficial wiki maintained by english speaking VRchat community
+- [Japanese VRchat Wiki](https://web.archive.org/web/20230930203651/https://vrcworld.wiki.fc2.com/) - Unofficial wiki maintained by Japanese VRChat community (Internet Archive link since regular link is dead)
 
 ## Tutorials
 
 These tutorials will help you get started with making worlds and avatars in VRchat.
+**Avatars**
 
-- [Tupper's VRChat Tutorials](https://www.youtube.com/channel/UCVxjI7B8uhcKqj75nVkm_oA) - Youtube channel with tutorials for VRChat
+
+**Worlds**
+- [Occlusion Culling Guide](https://gitlab.com/s-ilent/SCSS/-/wikis/Other/Occlusion-Culling) - Use occlusion culling to get the most rendering performance out of your scene
+- [How to animate NPCs in your world with MOCAP](https://www.youtube.com/watch?v=r8YpXP0RlZc&feature=youtu.be) - Record animations for NPCs using MOCAP in VRChat
+
+**Quest**
 - [Creating Content for VRChat on Oculus Quest](https://docs.vrchat.com/docs/creating-content-for-the-oculus-quest) - **Official** guides for making cross-platform VRC content
   - [Setting up Unity for creating Quest Content](https://docs.vrchat.com/docs/setting-up-unity-for-creating-quest-content) - Read about how to set up Unity for creating Quest content.
   - [Quest Content Optimization](https://docs.vrchat.com/docs/quest-content-optimization) - How to optimize your content properly for Quest.
   - [Cross-platform setup](https://docs.vrchat.com/docs/cross-platform-setup) - Limitations you'll need to keep in mind while creating content for Quest.
-- [Silent Cel Shading Shader](https://gitlab.com/s-ilent/SCSS) - Shaders for Unity for cel shading with several guides
-- [Blender Guru](https://www.youtube.com/user/AndrewPPrice) - Blender tutorials and general artist advice
-- [100 Blender 2.8 tips](https://youtu.be/_9dEqM3H31g) - Tips and tricks for Blender 2.8
+
+ **Blender**
 - [Create hair in Blender in 5 minutes](https://youtu.be/BqWYgrXw7Jk) - Easiest way to create hair in Blender
-- [20+ Styles of 3D Modeling in 20 Minutes](https://www.youtube.com/watch?v=DeHasEMCzcc) - Mostly Blender tips, tad bit of Zbrush
 - [IanHubert Tutorials](https://www.youtube.com/channel/UCbmxZRQk-X0p-TOxd6PEYJA) - Amazing lazy tutorials for learning Blender
-- [Substance painter basics](https://www.youtube.com/watch?v=L6f87psKYyk) - Using substance painter for VRChat avatar/model creation
-- [Occlusion Culling Guide](https://gitlab.com/s-ilent/SCSS/-/wikis/Other/Occlusion-Culling) - Use occlusion culling to get the most rendering performance out of your scene
-- [How to animate NPCs in your world with MOCAP](https://www.youtube.com/watch?v=r8YpXP0RlZc&feature=youtu.be) - Record animations for NPCs using MOCAP in VRChat
 - [Game Assets in Blender](https://www.youtube.com/watch?v=j3G9zn4cu-U) - A complete workflow video tutorial for modeling game assets in Blender
+
+**Other**
+- [Silent Cel Shading Shader](https://gitlab.com/s-ilent/SCSS) - Shaders for Unity for cel shading with several guides
 - [You should probably be using Cinemachine](https://blog.orels.sh/you-should-probably-be-using-cinemachine/) - How to create virtual productions with almost 0 scripting
+- [Substance painter basics](https://www.youtube.com/watch?v=L6f87psKYyk) - Using substance painter for VRChat avatar/model creation
+ 
+Dated
+- [Tupper's VRChat Tutorials](https://www.youtube.com/channel/UCVxjI7B8uhcKqj75nVkm_oA) - Youtube channel with tutorials for VRChat
 
 ---
 
 ### Avatars
 
+**Official**
 - [Creating Your First Avatar](https://docs.vrchat.com/docs/creating-your-first-avatar) - **Official** documentation and best quick start guide
 - [Whitelisted Avatar Components](https://creators.vrchat.com/avatars/whitelisted-avatar-components/whitelisted-avatar-components) - **Official** documentation for components you can use with avatars
 - [Avatar Optimizing Tips](https://docs.vrchat.com/docs/avatar-optimizing-tips) - **Official** documentation on optimization
+
 - [Beginner guide to Avatars](https://github.com/madjin/awesome-vrchat/blob/master/guides/avatars/intro-avatars.md) - Intro to Unity and uploading your first avatar
 - [Silent's free avatar model guide](https://gitlab.com/s-ilent/SCSS/-/wikis/Other/Avatar-Models) - covers the best freely available, properly licensed avatars + licenses Silent found
 - [Sprite/Pixel Avatars without Blender](https://youtu.be/IsYfTway-Y4) - Learn to make Doom sprite avatars
@@ -98,6 +110,7 @@ These tutorials will help you get started with making worlds and avatars in VRch
 **Quest**
 
 - [Porting PC avatars to Quest](https://www.youtube.com/watch?v=qVHYs3CsiyU) - 	VRChat tutorial by Rantis on making Quest avatars
+
 - [Quest avatar optimization for MMDs](https://www.youtube.com/watch?v=vK5gVkRXU1I) - How to port your MMD avatars over
 - [How (Not) to make your avatar Quest compatible](https://www.youtube.com/watch?v=NBysgz_ob9I) - An alternative guide for achieving Quest compatibility
 - [Optimize World](https://www.reddit.com/r/VRchat/comments/e3owxo/tutorial_how_to_shrink_a_maps_file_size_from/) - Tutorial for shrinking file size down for large maps
@@ -111,20 +124,21 @@ These tutorials will help you get started with making worlds and avatars in VRch
 ### Worlds
 
 - [Creating Your First World](https://docs.vrchat.com/docs/creating-your-first-world) - **Official** documentation and fastest quick start method
-- [Home Kit guide](https://docs.vrchat.com/docs/vrchat-home-kit) - **Official** video and project files for customizing your [Home Kit](https://assetstore.unity.com/packages/templates/tutorials/home-kit-vrchat-sdk-template-149278)
-- [Community Guide: World Creation](http://vrchat.wikidot.com/worlds:home) - Basic to advanced guides on making worlds in VRChat
-- [Room tutorial](https://github.com/rikeri/vrchat-room-tutorial) - Extensive guide on building a room with Blender and Unity
-- [VRchat HLS Guide](https://github.com/kayteh/VRC_HLS) - Solution & guide for streaming anything into VRChat
-- [VRChat World Trigger Tutorials](https://www.youtube.com/playlist?list=PLIoLQ-8wanr9jQWDUIs_2zshaDD_Lg-9R) - Youtube video tutorials made by CyanLaser
-- [How to get good at baked lighting](https://vrcat.club/threads/xiexes-lighting-tutorial-how-to-get-good-at-baked-lighting-101.2081/) - Make worlds go from flat to believable 3D environments
-- [VRC World Development](https://pastebin.com/vxNgrmhY) - List of resources and optimization guides for building worlds
+
+**Blender**
 - [Detailed Building Modeling](https://www.youtube.com/watch?v=22ZOvCv6lRU) - Creating custom buildings in Blender - Lazy Tutorials
+
+**Assets**
 - [HDRI Haven](https://hdrihaven.com/) - 100% Free high quality HDRIs for everyone
 - [Texture Haven](https://texturehaven.com/) - 100% Free textures for everyone
 - [C4Dcenter](https://c4dcenter.com/material-library/) - Free 4K resolution PBR materials
 - [Free sound effects](https://99sounds.org/free-sound-effects/) - Collection of free sound effects for use in trailers and game dev
 - [Zulubo Sounds](https://github.com/zulubo/Zulubo-Sounds) - Free MIT License sound effects
-- [Virtual Productions VRChat](https://github.com/gm3/virtualproduction-vrchat) - Create your own stage and camera systems in Unity
+
+**Dated**
+- [VRChat World Trigger Tutorials](https://www.youtube.com/playlist?list=PLIoLQ-8wanr9jQWDUIs_2zshaDD_Lg-9R) - Youtube video tutorials made by CyanLaser
+- [VRC World Development](https://pastebin.com/vxNgrmhY) - List of resources and optimization guides for building worlds
+
 
 ---
 
