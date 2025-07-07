@@ -101,7 +101,7 @@ The last step is to select the mouth movement shape. For Unity-Chan it is blends
 
 For other avatars the mouth blend shape you are most likely to see are: aaa, ah, or あ..
 
-## 4. Texture and Shaders
+## 4. Texture and Shaders (OUTDATED!)
 
 Textures and Shaders are a pretty important part of VR Chat. Textures are images projected onto 3d models. Shaders are the code that determine how the mesh looks in game. Not all shaders work in VR Chat, and just because the shader looks good in unity doesn’t mean it will look good in VR Chat.
 
@@ -123,7 +123,7 @@ Once you have all the materials changed to no longer be “Unity Chan”. Your a
 
 ![Testing your avatar locally](http://vrchat.wdfiles.com/local--files/tutorial:avatars:unity-upload-tutorial/unity%20chan%20shaders.jpg)
 
-## 5. Uploading your Avatar
+## 5. Uploading your Avatar (OUTDATED!)
 
 If you haven’t done so already, add the VRC_Avatar_Descriptor, this was covered in part 3.
 
